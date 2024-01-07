@@ -27,6 +27,14 @@
 [<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
 [<img src="https://logodix.com/logo/912324.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
+
+**Front-end:** 
+
+[<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer)
+[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
+
 <div>
   <a href="https://github.com/PhelipeCurso">
     <img height"180em" src= "https://github-readme-stats.vercel.app/api?username=PhelipeCurso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
