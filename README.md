@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 
  ## 🎯 Certificações/Qualificações
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://hermes.dio.me/tracks/bad97784-9de1-469b-9409-80343b69b50b.png" height="50"></a>](https://web.dio.me/track/824331c4-b300-4f76-b29d-ce6c147932bf)
 [<img src="https://hermes.dio.me/tracks/b6c00053-caf8-4dd8-9c92-96b1e077c426.png" height="50"></a>](https://web.dio.me/track/coding-future-avanade-programacao-c-com-crm-dynamics)
 - Formação .NET Developer - DIO.me
 - Fundamentos em C# - Balta.io
@@ -35,9 +35,18 @@
 [<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
 [<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
 
+
+## 🔗👨 Social 🔝
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50"></a>](https://github.com/PhelipeCurso) [<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>](https://www.linkedin.com/in/phelipe-ara%C3%BAjo-1aa80069/)
+
+
+
 <div>
   <a href="https://github.com/PhelipeCurso">
     <img height"180em" src= "https://github-readme-stats.vercel.app/api?username=PhelipeCurso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height"200em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PhelipeCurso&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+
 
