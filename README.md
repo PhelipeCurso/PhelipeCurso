@@ -3,6 +3,28 @@
 - 🌱 Atualmente estou aprendendo: CSharp
 - 📫 Como entrar em contato comigo: phelipe.infor@gmail.com
 - 😄 Pronomes: ele/dele
+
+ ## 🎯 Certificações/Qualificações
+[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://hermes.dio.me/tracks/b6c00053-caf8-4dd8-9c92-96b1e077c426.png" height="50"></a>](https://web.dio.me/track/coding-future-avanade-programacao-c-com-crm-dynamics)
+- Formação .NET Developer - DIO.me
+- Fundamentos em C# - Balta.io
+- Programação Orientada a Objetos em C# - Udemy
+- Conhecimentos em SQLServer e PostgreSQL
+- Versionamento de Código com Git e GitHub
+
+ ## 🛠 Habilidades
+- Trabalho em equipe
+- Liderança
+- Pensamento criativo
+- Resolução de problemas
+
+  ## 💻 Stack utilizada 📚
+
+**Back-end:** 
+
+[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
+
 <div>
   <a href="https://github.com/PhelipeCurso">
     <img height"180em" src= "https://github-readme-stats.vercel.app/api?username=PhelipeCurso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
