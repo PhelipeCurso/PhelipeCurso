@@ -24,6 +24,9 @@
 **Back-end:** 
 
 [<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
+[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://logodix.com/logo/2062376.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
 
 <div>
   <a href="https://github.com/PhelipeCurso">
